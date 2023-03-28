@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoxa=self.webpackChunkdoxa||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"general","permalink":"/blog/tags/general","count":1}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoxa=self.webpackChunkdoxa||[]).push([[965],{2938:e=>{e.exports=JSON.parse('{"title":"Basics","description":"Basics.","slug":"/category/basics","permalink":"/docs/category/basics","navigation":{"previous":{"title":"Docs","permalink":"/docs/intro"},"next":{"title":"Create a Page","permalink":"/docs/basics/create-a-page"}}}')}}]);
