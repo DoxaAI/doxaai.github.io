@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.doxaai.com/</id>
+    <title>DOXA Blog</title>
+    <updated>2023-06-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.doxaai.com/"/>
+    <subtitle>DOXA Blog</subtitle>
+    <icon>https://blog.doxaai.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[We are DOXA AI 😎]]></title>
+        <id>https://blog.doxaai.com/2023/06/20/we-are-doxa-ai</id>
+        <link href="https://blog.doxaai.com/2023/06/20/we-are-doxa-ai"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At DOXA AI, our ultimate mission is to foster an international machine learning community best placed to tackle some of humanity's most pressing challenges, such as climate change. We passionately believe in the transformative power of AI to build a better world, and we hope you will join us on that journey.]]></summary>
+        <content type="html"><![CDATA[<p>At DOXA AI, our ultimate mission is to foster an international machine learning community best placed to tackle some of humanity's most pressing challenges, such as climate change. We passionately believe in the transformative power of AI to build a better world, and we hope you will join us on that journey.</p><p>Stay tuned for more! 🚀</p>]]></content>
+        <author>
+            <name>Jeremy Lo Ying Ping</name>
+            <uri>https://jezz.me</uri>
+        </author>
+    </entry>
+</feed>
