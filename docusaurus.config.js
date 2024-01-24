@@ -1,29 +1,29 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DOXA',
-  tagline: 'A powerful platform for hosting engaging AI competitions.',
-  favicon: 'img/favicon.ico',
+  title: "DOXA",
+  tagline: "A powerful platform for hosting engaging AI competitions.",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://blog.doxaai.com',
+  url: "https://blog.doxaai.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'doxaai', // Usually your GitHub org/user name.
-  projectName: 'doxaai.github.io', // Usually your repo name.
+  organizationName: "doxaai", // Usually your GitHub org/user name.
+  projectName: "doxaai.github.io", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  deploymentBranch: 'production',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  deploymentBranch: "production",
 
   trailingSlash: false,
 
@@ -31,23 +31,22 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
+          routeBasePath: "/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -59,78 +58,72 @@ const config = {
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DOXA',
+        title: "DOXA AI Blog",
         // logo: {
         //   alt: 'DOXA Logo',
         //   src: 'img/logo.png',
         // },
         items: [
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: "/blog", label: "Blog", position: "left" },
           {
-            href: 'https://doxaai.com/',
-            label: 'Compete',
-            position: 'right',
+            href: "https://doxaai.com/",
+            label: "Compete",
+            position: "right",
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'docsSidebar',
-          //   position: 'left',
-          //   label: 'Docs',
-          // },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Partners',
+            title: "Competitions",
             items: [
               {
-                label: 'Climate Hack.AI',
-                href: 'https://climatehack.ai/',
+                label: "ClimateHack.AI",
+                href: "https://climatehack.ai/",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.gg/MUvbQ3UYcf',
+                label: "Discord",
+                href: "https://discord.gg/MUvbQ3UYcf",
               },
               {
-                label: 'Instagram',
-                href: 'https://instagram.com/doxaai',
+                label: "Instagram",
+                href: "https://instagram.com/doxaai",
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/doxaai',
+                label: "Twitter",
+                href: "https://twitter.com/doxaai",
               },
               {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/doxaai/',
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/company/doxaai/",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Press & Media",
+                to: "/press",
               },
               {
-                label: 'DOXA',
-                href: 'https://doxaai.com/',
+                label: "DOXA AI Platform",
+                href: "https://doxaai.com/",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/doxaai/',
+                label: "GitHub",
+                href: "https://github.com/doxaai/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DOXA`,
+        copyright: `Copyright © ${new Date().getFullYear()} DOXA AI`,
       },
       prism: {
         theme: lightCodeTheme,
