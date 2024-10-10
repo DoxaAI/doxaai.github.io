@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DOXA Blog",
+    "home_page_url": "https://blog.doxaai.com/",
+    "description": "DOXA Blog",
+    "items": [
+        {
+            "id": "https://blog.doxaai.com/2023/06/20/we-are-doxa-ai",
+            "content_html": "<p>At DOXA AI, our ultimate mission is to foster an international machine learning community best placed to tackle some of humanity's most pressing challenges, such as climate change. We passionately believe in the transformative power of AI to build a better world, and we hope you will join us on that journey.</p><p>Stay tuned for more! 🚀</p>",
+            "url": "https://blog.doxaai.com/2023/06/20/we-are-doxa-ai",
+            "title": "We are DOXA AI 😎",
+            "summary": "At DOXA AI, our ultimate mission is to foster an international machine learning community best placed to tackle some of humanity's most pressing challenges, such as climate change. We passionately believe in the transformative power of AI to build a better world, and we hope you will join us on that journey.",
+            "date_modified": "2023-06-20T00:00:00.000Z",
+            "author": {
+                "name": "Jeremy Lo Ying Ping",
+                "url": "https://jezz.me"
+            },
+            "tags": []
+        }
+    ]
+}
