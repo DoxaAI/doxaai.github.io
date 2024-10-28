@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoxa=self.webpackChunkdoxa||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"We are DOXA AI \ud83d\ude0e","permalink":"/2023/06/20/we-are-doxa-ai"}]}')}}]);
