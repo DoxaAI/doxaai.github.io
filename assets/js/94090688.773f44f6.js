@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoxa=self.webpackChunkdoxa||[]).push([[97],{2546:e=>{e.exports=JSON.parse('{"label":"Research Competitions","permalink":"/tags/research-competitions","allTagsPath":"/tags","count":2}')}}]);

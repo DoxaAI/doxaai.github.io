@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.doxaai.com/</id>
     <title>DOXA Blog</title>
-    <updated>2024-04-06T00:00:00.000Z</updated>
+    <updated>2024-10-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.doxaai.com/"/>
     <subtitle>DOXA Blog</subtitle>
     <icon>https://blog.doxaai.com/img/favicon.ico</icon>
     <rights>Copyright © 2024 DOXA AI</rights>
+    <entry>
+        <title type="html"><![CDATA[Launching the Harmony Matching Challenge]]></title>
+        <id>https://blog.doxaai.com/2024/10/28/harmony-matching-challenge</id>
+        <link href="https://blog.doxaai.com/2024/10/28/harmony-matching-challenge"/>
+        <updated>2024-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img]]></summary>
+        <content type="html"><![CDATA[<center><a href="https://doxaai.com/competition/harmony-matching" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Harmony Question Matching Challenge" src="/img/2024-10-25 Harmony Question Matching Challenge.png" style="max-width:500px;border-radius:15px" class="img_ev3q"></a></center>]]></content>
+        <author>
+            <name>Jeremy Lo Ying Ping</name>
+            <uri>https://jezz.me</uri>
+        </author>
+        <category label="Research Competitions" term="Research Competitions"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the winners of ClimateHack.AI 2023–24 🏆]]></title>
         <id>https://blog.doxaai.com/2024/04/06/climatehack-ai-2023-finals</id>

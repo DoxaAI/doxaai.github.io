@@ -4,11 +4,20 @@
         <title>DOXA Blog</title>
         <link>https://blog.doxaai.com/</link>
         <description>DOXA Blog</description>
-        <lastBuildDate>Sat, 06 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 DOXA AI</copyright>
+        <item>
+            <title><![CDATA[Launching the Harmony Matching Challenge]]></title>
+            <link>https://blog.doxaai.com/2024/10/28/harmony-matching-challenge</link>
+            <guid>https://blog.doxaai.com/2024/10/28/harmony-matching-challenge</guid>
+            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+            <content:encoded><![CDATA[<center><a href="https://doxaai.com/competition/harmony-matching" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Harmony Question Matching Challenge" src="/img/2024-10-25 Harmony Question Matching Challenge.png" style="max-width:500px;border-radius:15px" class="img_ev3q"></a></center>]]></content:encoded>
+            <category>Research Competitions</category>
+        </item>
         <item>
             <title><![CDATA[Announcing the winners of ClimateHack.AI 2023–24 🏆]]></title>
             <link>https://blog.doxaai.com/2024/04/06/climatehack-ai-2023-finals</link>
