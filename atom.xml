@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.doxaai.com/</id>
     <title>DOXA Blog</title>
-    <updated>2024-12-19T00:00:00.000Z</updated>
+    <updated>2025-01-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.doxaai.com/"/>
     <subtitle>DOXA Blog</subtitle>
     <icon>https://blog.doxaai.com/img/favicon.ico</icon>
     <rights>Copyright © 2025 DOXA AI</rights>
+    <entry>
+        <title type="html"><![CDATA[Announcing the Harmony Matching Challenge winners 🏆]]></title>
+        <id>https://blog.doxaai.com/2025/01/14/harmony-matching-winners</id>
+        <link href="https://blog.doxaai.com/2025/01/14/harmony-matching-winners"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img]]></summary>
+        <content type="html"><![CDATA[<center><a href="https://harmonydata.ac.uk/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Harmony logo" src="https://harmonydata.ac.uk/images/logo.svg" style="max-width:500px" class="img_ev3q"></a></center><br><p>On 10<sup>th</sup> January 2025, the <a href="https://doxaai.com/competition/harmony-matching" target="_blank" rel="noopener noreferrer">Harmony Question Matching Challenge</a> ended, and after having evaluated 276 submissions from 26 participants, the results are now in. 🥳</p><p>Congratulations to the competition's winners:</p><ol><li><strong>First place</strong>: <a href="https://www.linkedin.com/in/jos%C3%A9-in%C3%A9s-mart%C3%ADnez-berard-7b86a9222/" target="_blank" rel="noopener noreferrer">José Inés Martínez Berard</a> (<a href="https://doxaai.com/user/oreug" target="_blank" rel="noopener noreferrer">@oreug</a>) with <code>MAE=20.348</code>, who won a £500 Amazon voucher 🏅</li><li><strong>Second place</strong>: <a href="https://www.linkedin.com/in/rafi-ahmed-patel-bb2954202" target="_blank" rel="noopener noreferrer">Rafi Ahmed Riyaz Ahmed Patel</a> (<a href="https://doxaai.com/user/rafa" target="_blank" rel="noopener noreferrer">@rafa</a>) with <code>MAE=20.544</code>, who won a £250 Amazon voucher 🥈</li></ol><p>The <a href="https://harmonydata.ac.uk/" target="_blank" rel="noopener noreferrer">Harmony</a> team will now work with the winners to explore the integration of their solutions into the Harmony tool, which aims to help researchers make better use of existing data by <em>harmonising</em> questionnaire items and measures across different studies using natural language processing.</p><p>Harmony is a collaboration between researchers at <a href="https://www.ulster.ac.uk/" target="_blank" rel="noopener noreferrer">Ulster University</a>, <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener noreferrer">University College London</a>, the <a href="https://www.ufsm.br/" target="_blank" rel="noopener noreferrer">Universidade Federal de Santa Maria</a> and <a href="https://fastdatascience.com/" target="_blank" rel="noopener noreferrer">Fast Data Science</a>. The Harmony project has been funded by <a href="https://wellcome.org/" target="_blank" rel="noopener noreferrer">Wellcome</a> as part of the <a href="https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize" target="_blank" rel="noopener noreferrer">Wellcome Data Prize in Mental Health</a> and by the <a href="https://www.ukri.org/councils/esrc/" target="_blank" rel="noopener noreferrer">Economic and Social Research Council (ESRC)</a>.</p><p><strong>If you found this challenge interesting, check out the <a href="https://doxaai.com/competition/harmony-parsing" target="_blank" rel="noopener noreferrer">Harmony Questionnaire Parsing Challenge</a> (a token classification competition), which is open until 28th March.</strong></p>]]></content>
+        <author>
+            <name>Jeremy Lo Ying Ping</name>
+            <uri>https://jezz.me</uri>
+        </author>
+        <category label="Research Competitions" term="Research Competitions"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launching the Harmony Parsing Challenge]]></title>
         <id>https://blog.doxaai.com/2024/12/19/harmony-parsing-challenge</id>
